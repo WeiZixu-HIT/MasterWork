@@ -1,5 +1,9 @@
+feature/second mod !
+
+feature/first mod !
+
 Create a readme file !
 
 second modified !
 
-from first mod2
+from feature mod2
